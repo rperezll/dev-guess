@@ -1,4 +1,4 @@
-export const guess = [
+[
     { word: 'docshub', hint: 'It’s what you’re working on right now!' },
     { word: 'cli', hint: 'It stands for Command Line Interface.' },
     { word: 'node', hint: 'A popular runtime environment for JavaScript.' },
